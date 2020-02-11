@@ -9,4 +9,4 @@ We are a team of four students, studying at the Amsterdam University of Applied 
 | Miguel | Software Engineering      |    4th Year |
 ---
 Below is the link to download our application:
-> Link
+> Link | Test
